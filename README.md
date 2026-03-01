@@ -7,6 +7,7 @@ Anggota Kelompok:
 - Dinda Ayu Ningratu Putri (5025231059)
 - Nadya Zafira (5025231310)
 - Izzudin Ali Akbari (5025231313)
+- Akhamar Elnath Chaniago (5025231281)
 
 ## Daftar Bab
 
