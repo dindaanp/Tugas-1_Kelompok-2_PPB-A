@@ -1,6 +1,12 @@
 # Tugas 1 — Case Study App Spotify
 
-Kelompok 2
+Anggota Kelompok 2:
+  - Nabil Julian Syah (5025231023)
+  - Yudha Putra Dwinanda (5025231049)
+  - Dinda Ayu Ningratu Putri (5025231059)
+  - Nadya Zafira (5025231310)
+  - Izzudin Ali Akbari (5025231313)
+ 
 
 ## Daftar Bab
 
